@@ -34,6 +34,8 @@ Note: select the option to create the file in the main branch.
 Now, will create one more file for License selction (License file mainly used for production purpose. License file provide some permission and limitations)
 create a new file name it as LICENSE the select the template for License. and commit the changes.
 
+by using the bash script also we can pull the changes from the git repo using " git pull" command in bash
+
 
 
 
