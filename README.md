@@ -18,11 +18,13 @@ git commit -m "this is my first commit"
 
 TO use VScode we can tansfers the files to git 
 by going to source control tab in left side 
-we can observe the file name at the corner of file name. if we drag the curser on to the file name we can observe the + icon to change the state. after clicking that we can commit the file git by writting the text.
+we can observe the file name at the corner of file name. if we drag the curser on to the file name we can observe the + icon to change the state. after clicking that we can commit the file git by writting the text. we will get a option to publish the file on git after accepting it file moves to github repo.
 
-U =Untracked
-A= index added
-M= Modified
+After file creation right corner of the file name we can observe some Characters shown below
+U =Untracked  -- New file created
+A= index added --- after clicking on + icon file moves to stage change so we can observe this.
+M= Modified --  after file saved to git then if we modify in the file we can observe this.
+
 
 
 
