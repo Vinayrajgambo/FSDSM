@@ -25,6 +25,14 @@ U =Untracked  -- New file created
 A= index added --- after clicking on + icon file moves to stage change so we can observe this.
 M= Modified --  after file saved to git then if we modify in the file we can observe this.
 
+Now we can create a file on the git (It is a important step)
+After going to current repo on the git we have to + icon just beside code button if we click on it we can select the option to create new file. 
+Then provide a name to it . as .gitignore  then judt below that we have a option the select the template. Language wise we can select the template we can select the python so template will be loaded.
+then commit the changes. file will bec created. 
+Note: select the option to create the file in the main branch.
+
+
+
 
 
 
