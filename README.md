@@ -31,7 +31,8 @@ Then provide a name to it . as .gitignore  then judt below that we have a option
 then commit the changes. file will bec created. 
 Note: select the option to create the file in the main branch.
 
-
+Now, will create one more file for License selction (License file mainly used for production purpose. License file provide some permission and limitations)
+create a new file name it as LICENSE the select the template for License. and commit the changes.
 
 
 
