@@ -37,6 +37,9 @@ create a new file name it as LICENSE the select the template for License. and co
 by using the bash script also we can pull the changes from the git repo using " git pull" command in bash
 
 
+Will create new file name init.setup for initialising the setup automatically using shell scipt
+then will create a requirements.txt file  where all required python libraries are available.
+
 
 
 
