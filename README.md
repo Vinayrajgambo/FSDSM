@@ -42,6 +42,9 @@ then will create a requirements.txt file  where all required python libraries ar
 
 Now will run the init_setup.sh file in bash script using "bash init_setup.sh"
 
+After runnnig the file new Virtual environment is created.
+
+One new file is created with template.py for project pipeline folders and files.
 
 
 
