@@ -46,6 +46,8 @@ After runnnig the file new Virtual environment is created.
 
 One new file is created with template.py for project pipeline folders and files.
 
+Run this template.py file to get all the files and folders in the project directory
+
 
 
 
