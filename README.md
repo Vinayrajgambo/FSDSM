@@ -48,6 +48,9 @@ One new file is created with template.py for project pipeline folders and files.
 
 Run this template.py file to get all the files and folders in the project directory
 
+Now we will install setup.py our local package by using 2 ways
+1. python setup.py install in bash terminal 
+2. write -e . in the requirments file to directly run setup.py
 
 
 
