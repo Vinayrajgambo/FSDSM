@@ -20,13 +20,13 @@ setup(
     version='0.0.1',
     author='sunny savita',
     author_email='sunny.savita@ineuron.ai',
-    install_requires=["scikit-learn","pandas","numpy"],
+    install_requires=get_requirements('requirements.txt'),
     packages=find_packages()
 )"""
 setup(
     name='DiamondPricePrediction',
     version='0.0.1',
-    author='Vinayrj Gambo',
+    author='Vinayraj Gambo',
     author_email='vinayraj.gambo@gmail.com',
     packages=find_packages()
 
